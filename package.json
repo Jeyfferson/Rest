@@ -1,0 +1,18 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "Teste de rest-api para estudo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "api"
+  ],
+  "author": "Jeyfferson Vicente",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
